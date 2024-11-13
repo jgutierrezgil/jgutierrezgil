@@ -15,17 +15,18 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="/api/placeholder/50/50" alt="US" /><br>
-        <strong>University of Seville</strong><br>
-        Computer Engineering<br>
-        2011 - 2012
-      </td>
+      
       <td align="center">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFPNqmulH0-Vw/company-logo_100_100/company-logo_100_100/0/1693812932773/universidad_pablo_de_olavide_logo?e=1739404800&v=beta&t=QkKgygXBu60SRzsccWz9Hh5wIb6f1Ze1JxfkA00TGqY" alt="UPO" /><br>
         <strong>Pablo de Olavide University</strong><br>
         Technical Engineering in Management Computing<br>
         2005 - 2011
+      </td>
+      <td align="center">
+        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFeIC0XDU7cug/company-logo_100_100/company-logo_100_100/0/1630518578339/universidad_de_sevilla_logo?e=1739404800&v=beta&t=sFULe15RoR5wVcs85I8YKqknesfUDWoRdc4eZ0TvlII" alt="US" /><br>
+        <strong>University of Seville</strong><br>
+        Computer Engineering<br>
+        2011 - 2012
       </td>
     </tr>
   </table>
