@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Joaquín Gutiérrez Gil
 
 <div align="center">
-  <img src="/api/placeholder/800/200" alt="banner" />
+Software Engineer | Full Stack Developer | Android Developer
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgutierrezgil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquingutierrezgil)
 [![GitHub Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=for-the-badge&logo=github)](https://github.com/GoaqiDev)
 [![GitHub Academic](https://img.shields.io/badge/GitHub-Academic-181717?style=for-the-badge&logo=github)](https://github.com/jgutierrezgil)
 
