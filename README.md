@@ -2,11 +2,13 @@
 
 <div align="center">
 Software Engineer | Full Stack Developer | Android Developer
-</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquingutierrezgil)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquingutierrezgil)
 [![GitHub Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=for-the-badge&logo=github)](https://github.com/GoaqiDev)
 [![GitHub Academic](https://img.shields.io/badge/GitHub-Academic-181717?style=for-the-badge&logo=github)](https://github.com/jgutierrezgil)
+</div>
+
+
 
 > Software Engineer specializing in Full Stack Development and Mobile Applications. Passionate about building robust, scalable solutions and exploring new technologies across different platforms and environments.
 
