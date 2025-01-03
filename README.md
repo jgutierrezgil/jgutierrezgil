@@ -1,114 +1,59 @@
-# 👋 Hi there! I'm Joaquín Gutiérrez Gil
+# 👋 Hi, I'm Joaquín Gutiérrez Gil
 
 <div align="center">
-  <h3>Software Engineer | Full Stack Developer | Android Specialist | Cybersecurity Enthusiast</h3>
+  <h3>Software Engineer & Cybersecurity Specialist</h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquingutierrezgil)
-  [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/jgutierrezgil)
   [![Portfolio](https://img.shields.io/badge/Portfolio-jgutierrezgil.dev-blue?style=for-the-badge)](https://jgutierrezgil.dev)
+  [![Blog](https://img.shields.io/badge/Blog-Tech_Articles-orange?style=for-the-badge)](https://jgutierrezgil.dev/blog)
 </div>
 
 ---
 
-## 🚀 About Me
+## 🛡️ About Me
 
-I'm a passionate **Software Engineer** with expertise in:
-- Building scalable, secure, and robust software solutions.
-- Integrating cutting-edge technologies across Full Stack and Mobile Development.
-- Exploring and applying **cybersecurity principles**, including vulnerability analysis and secure coding practices.
-
-I thrive on solving challenging problems and contributing to meaningful projects.
-
----
-
-## 🎓 Education
+I'm a Software Engineer specializing in Cybersecurity while maintaining expertise in Full Stack Development. My focus is on:
+- Leading security assessments and implementing robust protection measures
+- Developing secure, scalable software solutions
+- Bridging the gap between development and security practices
+- Active participation in bug bounty programs and security research
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFPNqmulH0-Vw/company-logo_100_100/company-logo_100_100/0/1693812932773/universidad_pablo_de_olavide_logo?e=1739404800&v=beta&t=QkKgygXBu60SRzsccWz9Hh5wIb6f1Ze1JxfkA00TGqY" alt="UPO" width="80" /><br>
-        **Pablo de Olavide University**<br>
-        Technical Engineering in IT Management<br>
-        <i>2005 - 2011</i>
-      </td>
-      <td align="center">
-        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFeIC0XDU7cug/company-logo_100_100/company-logo_100_100/0/1630518578339/universidad_de_sevilla_logo?e=1739404800&v=beta&t=sFULe15RoR5wVcs85I8YKqknesfUDWoRdc4eZ0TvlII" alt="US" width="80" /><br>
-        **University of Seville**<br>
-        Master's in Computer Engineering<br>
-        <i>2011 - 2012</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="/ossu-logo.svg" alt="OSSU Logo" width="80" /><br>
-        **OSSU: Open Source Society University**<br>
-        Self-directed Computer Science Program<br>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgutierrezgil&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Current Path
 
-### 📱 Mobile Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
+### 🔒 Cybersecurity Focus (80%)
+- **Training Platforms:**
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+  [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
 
-### 💻 Full Stack Development
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+- **Ongoing Certifications:**
+  - CS50's Introduction to Cybersecurity
+  - CISCO: Introduction to Cybersecurity & Ethical Hacker
+  - Professional Certificates from Google, Microsoft, and IBM
 
-### 🗄️ Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-### 🛡️ Cybersecurity
-<div align="center">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-D32F2F?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Security-2D9CDB?style=for-the-badge&logo=icloud&logoColor=white" />
-</div>
+### 💻 Development Expertise (20%)
+Maintaining and enhancing projects with a strong focus on security integration
 
 ---
 
-## 🌱 Current Learning Path
+## 🛠️ Core Competencies
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Training-9C27B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Practices-blue?style=for-the-badge" />
-</div>
+### Security Tools & Practices
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 
----
-
-## 📚 Certifications & Projects
-
-### Certifications:
-- **Java Masterclass** - Universidad Pablo de Olavide
-- **Ethical Hacking Essentials** - Cybrary
-- 🔗 **More Certifications on** [**My Website**](https://jgutierrezgil.dev)
-
-### Featured Projects:
-- Explore my repositories on GitHub:
-  - 📚 [GitHub: jgutierrezgil](https://github.com/jgutierrezgil)
-
----
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on innovative projects, including:
-- **Mobile App Development**
-- **Full Stack Applications**
-- **Cybersecurity Challenges**
+### Development Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgutierrezgil&layout=compact&theme=dark" alt="Top Languages" />
@@ -116,6 +61,37 @@ I'm always excited to collaborate on innovative projects, including:
 
 ---
 
+## 📚 Latest Projects
+
+### 🛡️ Security Projects
+- **Security Tools Repository**: Collection of custom security scripts and tools
+- **Vulnerability Assessment Framework**: Automated security testing tools
+- **Security Documentation**: Comprehensive guides and best practices
+
+### 💻 Development Projects
+- **Secure Application Templates**: Boilerplates with security-first approach
+- **Mobile Security Tools**: Android security testing utilities
+- **Cloud Security Configurations**: Infrastructure security templates
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Exploring Advanced Penetration Testing Techniques
+- Implementing Security Best Practices in Full Stack Applications
+- Cloud Security: Protecting Modern Infrastructure
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on:
+- Security Research and Bug Bounty Programs
+- Secure Application Development
+- Security Tool Development
+- Knowledge Sharing and Technical Writing
+
 <div align="center">
-  <i>✨ "Good software, like wine, takes time" ✨</i>
+  <i>"Building secure systems requires both a hacker's mindset and a developer's precision"</i>
 </div>
