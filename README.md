@@ -100,7 +100,14 @@ Software Engineer | Full Stack Developer | Android Developer | Cybersecurity Ent
 <div align="center">
   <img src="https://img.shields.io/badge/OSSU-Computer_Science-blue?style=for-the-badge" alt="OSSU" />
   <img src="https://img.shields.io/badge/Master's_Degree-Computer_Engineering-green?style=for-the-badge" alt="Master" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Training-9C27B0?style=for-the-badge" alt="Cybersecurity" />
 </div>
+
+### Areas of Focus
+- 🛡️ Secure Software Development
+- 🐾 Penetration Testing & Ethical Hacking
+- 🔒 Cyber Defense Strategies
+- 📱 Advanced Android Development
 
 ### Software Engineering Focus
 - 🏗️ System Architecture & Design Patterns
@@ -168,13 +175,14 @@ Software Engineer | Full Stack Developer | Android Developer | Cybersecurity Ent
 - 🏛️ Oracle Masterclass - Oracle Campus 4 Universities
 - 🌐 Upper-Intermediate English Certificate - UPO
 - 🛡️ Ethical Hacking Essentials - Cybrary
+- 🔗 **Latest Certifications Available on** [**My Website**](https://jgutierrezgil.dev)
+
 
 ---
 
 ## 🌟 GitHub Projects
 
-I maintain two GitHub accounts:
-- 🚀 [GoaqiDev](https://github.com/GoaqiDev) - Personal projects and experiments in Full Stack & Android development
+GitHub account:
 - 📚 [jgutierrezgil](https://github.com/jgutierrezgil) - Academic work and structured projects
 
 ---
