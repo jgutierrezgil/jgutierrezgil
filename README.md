@@ -26,7 +26,7 @@ I'm a Software Engineer specializing in Cybersecurity while maintaining expertis
 
 ## 🎯 Current Path
 
-### 🔒 Cybersecurity Focus (80%)
+### 🔒 Cybersecurity Focus
 - **Training Platforms:**
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
   [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
@@ -36,8 +36,8 @@ I'm a Software Engineer specializing in Cybersecurity while maintaining expertis
   - CISCO: Introduction to Cybersecurity & Ethical Hacker
   - Professional Certificates from Google, Microsoft, and IBM
 
-### 💻 Development Expertise (20%)
-Maintaining and enhancing projects with a strong focus on security integration
+### 💻 Development Expertise
+Maintaining and enhancing projects with a strong focus on security integration and software engineer
 
 ---
 
