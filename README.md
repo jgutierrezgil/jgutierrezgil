@@ -50,37 +50,23 @@ Maintaining and enhancing projects with a strong focus on security integration a
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 
 ### Development Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgutierrezgil&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+### Scripting & Query Languages
 
----
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📚 Latest Projects
+### Currently Learning
 
-### 🛡️ Security Projects
-- **Security Tools Repository**: Collection of custom security scripts and tools
-- **Vulnerability Assessment Framework**: Automated security testing tools
-- **Security Documentation**: Comprehensive guides and best practices
-
-### 💻 Development Projects
-- **Secure Application Templates**: Boilerplates with security-first approach
-- **Mobile Security Tools**: Android security testing utilities
-- **Cloud Security Configurations**: Infrastructure security templates
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Exploring Advanced Penetration Testing Techniques
-- Implementing Security Best Practices in Full Stack Applications
-- Cloud Security: Protecting Modern Infrastructure
-<!-- BLOG-POST-LIST:END -->
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
 
 ---
 
